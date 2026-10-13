@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| アプリURL (Vercel) | `https://<điền-sau-khi-deploy>.vercel.app` |
+| アプリURL (Vercel) | `https://yuki-coldchain-prototype-mu.vercel.app` |
 | Supabase project | https://supabase.com/dashboard/project/rpubuvtkzovywefffabw |
 | 画面・機能一覧（確定版）＋モック一覧 | [docs/SCOPE.md](docs/SCOPE.md) |
 
@@ -16,7 +16,7 @@
 
 | Email | Password |
 |---|---|
-| `<điền email demo>` | `<điền mật khẩu demo>` |
+| `<truong.thi.thu.anh@sun-asterisk.com>` | `<Lab2@2026>` |
 
 アカウントは LAB-6 終了まで有効にしておきます。| Tài khoản giữ đến hết LAB-6.
 
